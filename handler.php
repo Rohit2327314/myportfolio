@@ -8,8 +8,8 @@ require 'php/PHPMailer-5.2.28/src/PHPMailer.php';
 require 'php/PHPMailer-5.2.28/src/SMTP.php';
 
 $mail = new PHPMailer(true);
-$mail_to_email = '***@gmail.com'; // your email
-$mail_to_name = 'Webmaster';
+$mail_to_email = 'roohit2327@gmail.com'; // your email
+$mail_to_name = 'Rohit Kale';
 
 try {
 
